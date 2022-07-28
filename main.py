@@ -1,7 +1,6 @@
 from scapy.all import *
 import requests
 import csv
-from datetime import date
 import ipaddress
 import folium
 
