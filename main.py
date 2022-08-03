@@ -16,7 +16,7 @@ class colors:
 	UNDERLINE = '\033[4m'
 	RED='\033[31m'
 
-pcap_path=r'C:\Users\Yassine\Desktop\capture.pcapng'
+pcap_path=input("Input PCAP/PCAPNG file path")
 
 
 def Extract_IPS(pcap_path):
